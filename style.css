@@ -1,1 +1,44 @@
+body {
+  background-color: lightskyblue;  
+  background-image: url('glig.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top right; 
+  background-size: 100px;
+}
 
+.critter {
+  display: block;
+  max-width: 50%;
+  border: 2px solid green;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+h1 {
+  color: darkolivegreen;
+  text-align: center;
+  font-size: 300%;
+  background-color: rgba(173, 216, 230, 0.5);
+  background-op
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  padding-bottom: 10px;
+}
+
+a, a:visited {
+  color: green;
+}
+
+a:hover {
+  color: darkgreen;
+  font-weight: bold;
+}
