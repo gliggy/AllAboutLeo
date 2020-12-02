@@ -33,6 +33,10 @@ ul {
   padding-bottom: 10px;
 }
 
+p {
+  text-align: center;
+}
+
 a, a:visited {
   color: green;
 }
